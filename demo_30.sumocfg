@@ -1,0 +1,14 @@
+<configuration>
+	<input>
+		<net-file value="demo.net.xml"/>
+		<route-files value="demo_30.rou.xml"/>
+		<additional-files value="demo.add.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="180000"/>
+		<time-to-teleport value="-1"/>
+		<start value="1"/>
+		<quit-on-end value="1"/>
+	</time>
+</configuration>

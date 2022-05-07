@@ -1,0 +1,1 @@
+print(list(range(100,1000,100))+list(range(1000,11000,1000)))
