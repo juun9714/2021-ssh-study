@@ -1,0 +1,8 @@
+https://datascienceschool.net/01%20python/03.01%20%EB%84%98%ED%8C%8C%EC%9D%B4%20%EB%B0%B0%EC%97%B4.html
+-> array []안에서 조건 설정하면 조건 맞는 것만 return
+
+https://sumo.dlr.de/pydoc/traci._vehicle.html#VehicleDomain-getParameter
+-> Traci.vehicle methods
+
+https://sumo.dlr.de/pydoc/traci._simulation.html#Stage
+-> Traci.simulation methods
